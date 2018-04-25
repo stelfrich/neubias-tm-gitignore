@@ -1,0 +1,15 @@
+# Default gitignore for NEUBIAS training material
+
+## macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+## Thumbnails
+._*
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+## Windows folder config file
+Desktop.ini
